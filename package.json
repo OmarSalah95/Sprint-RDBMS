@@ -1,4 +1,16 @@
 {
+  "name": "ProjectsActionsTracker",
+  "version": "1.0.0",
+  "description": "Recipe API project Data Migrations and seeding",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Omar Salah",
   "dependencies": {
     "express": "^4.16.4",
     "helmet": "^3.16.0",
