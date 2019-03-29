@@ -1,0 +1,25 @@
+{
+  "name": "ProjectsActionsTracker",
+  "version": "1.0.0",
+  "description": "Recipe API project Data Migrations and seeding",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Omar Salah",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "knex": "^0.16.3",
+    "node": "^11.12.0",
+    "nodemon": "^1.18.10",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {
+    "knex-cleaner": "^1.1.4"
+  }
+}
